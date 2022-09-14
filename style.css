@@ -1,0 +1,49 @@
+.login_container {
+    float: left;
+    border: 1px solid #DBDBDB;
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 20px;
+}
+
+.hide {
+    display: none;
+}
+
+p {
+    margin: 0;
+}
+
+
+.login_box {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 50px;
+    background: #711BFF;
+    border: 1px solid;
+    border-radius: 4px;
+    background-color: #711BFF;
+    text-align: center;
+}
+
+.logo_img {
+    vertical-align: top;
+}
+
+.find {
+    float: left;
+}
+
+.sign_up {
+    float: right;
+    color: #767676;
+}
+
+.find *, .sign_up * {
+    color: #767676;
+}
+
+.find_id, .find_pw, .go_sign_up {
+    text-decoration: none;
+}
